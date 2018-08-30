@@ -8,3 +8,4 @@ const produceDrivingRange = (blockRange) => (st1, st2) => {
 }
 
 const produceTipCalculator = (percentage) => (total) => percentage * total
+
